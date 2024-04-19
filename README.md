@@ -1,5 +1,4 @@
 >Calculadora Científica em Linguagem C
-
 Este é um projeto de uma calculadora científica desenvolvida em linguagem C como parte de um trabalho acadêmico na faculdade. Foi implementada de forma independente como um exercício para aprimorar habilidades de programação e entender conceitos matemáticos subjacentes.
 
 ## Funcionalidades Principais:
